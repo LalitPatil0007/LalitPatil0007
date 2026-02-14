@@ -11,7 +11,7 @@ This repository acts as a **hands-on automation playground** where multiple auto
 - Showcase end-to-end **automation framework design**
 - Maintain **multiple automation projects** in a single repository
 - Apply **industry best practices** used in enterprise applications
-- Demonstrate expertise in **functional, UI, and integration testing**
+- Demonstrate expertise in **functional, UI, API and integration testing**
 - Use as a **portfolio repository** for interviews and learning
 
 ---
