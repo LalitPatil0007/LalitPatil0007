@@ -1,6 +1,6 @@
-#  Test Automation Lab
+#   Automation Repo
 
-Test Automation Lab is a centralized repository created to design, build, and showcase **robust, scalable, and maintainable test automation frameworks** using modern tools and industry best practices.
+Automation Repo is a centralized repository created to design, build, and showcase **robust, scalable, and maintainable test automation frameworks** using modern tools and industry best practices.
 
 This repository acts as a **hands-on automation playground** where multiple automation projects coexist under one umbrella, each demonstrating real-world framework design patterns.
 
